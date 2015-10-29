@@ -1,0 +1,14 @@
+﻿Build started 4/24/2014 1:09:59 AM.
+     1>Project "c:\Users\Joey\documents\visual studio 2013\Projects\Rainfall Modification Ch8\Rainfall Modification Ch8\Rainfall Modification Ch8.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Rainfall Modification ch8.cpp"
+         Rainfall Modification ch8.cpp
+     1>c:\users\joey\documents\visual studio 2013\projects\rainfall modification ch8\rainfall modification ch8\rainfall modification ch8.cpp(54): warning C4244: 'argument' : conversion from 'double' to 'char', possible loss of data
+     1>c:\users\joey\documents\visual studio 2013\projects\rainfall modification ch8\rainfall modification ch8\rainfall modification ch8.cpp(68): warning C4244: 'argument' : conversion from 'double' to 'char', possible loss of data
+     1>c:\users\joey\documents\visual studio 2013\projects\rainfall modification ch8\rainfall modification ch8\rainfall modification ch8.cpp(112): error C2440: '=' : cannot convert from 'std::string' to 'int'
+                 No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+     1>Done Building Project "c:\Users\Joey\documents\visual studio 2013\Projects\Rainfall Modification Ch8\Rainfall Modification Ch8\Rainfall Modification Ch8.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.22
